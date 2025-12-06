@@ -44,9 +44,9 @@ export default function LoginCard() {
           </button>
         </div>
 
-        <p className="caption">
+        {/* <p className="caption">
           For local dev set <code>VITE_REDIRECT_URI=http://localhost:5173</code>
-        </p>
+        </p> */}
       </div>
 
       <div className="card-right">
